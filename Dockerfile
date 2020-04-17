@@ -1,4 +1,4 @@
-FROM theiaide/theia-full:latest
+FROM theiaide/theia:latest
 
 LABEL maintainer="devzolo <coder.devzolo@gmail.com>"
 
